@@ -22,7 +22,7 @@ echo "Gmail :hambali221019@gmail.com"
 echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 
-echo ="Pilih Nama Bank Kalian:BCA,BRI,BNI,MANDIRI,BSI,OSCB,MUAMALAB,OVO,DANA,GOPAY,LINKAJA,pospay"
+echo ="Pilih Nama Bank Kalian:BCA,BRI,BNI,MANDIRI,BSI,OSCB,MUAMALAB,OVO,DANA,GOPAY,LINKAJA,POSPAY"
 read p;
 sleep 1
 sleep 2
