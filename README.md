@@ -12,8 +12,8 @@ echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 toilet -f standard -F gay "HACKBANK"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
-echo "Author  : "Mr.HAMBALI"
-" Team.  : "HAMBALI CYBER TEAM"
+echo "Author  : "MR-HAMBALI"
+" Team.  : "MR-HAMBALI CYBER TEAM"
 echo " Kontak Me  : "083128356342"
 " Pesan  : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Saya Sendiri:)"
 sleep 1
@@ -22,12 +22,12 @@ echo "Gmail : hambali221019@gmail.com"
 echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 
-echo ="Pilih Nama Bank Anda:BCA,BRI,BNI,MANDIRI,BSI,OSCB,MUAMALAB,OVO,DANA,GOPAY,LINKAJA,POSPAY"
+echo ="Pilih Nama Bank Anda:BCA,BRI,BNI,MANDIRI,BSI,OSCB,OVO,DANA,GOPAY,LINKAJA,POSPAY"
 read p;
 sleep 1
 sleep 2
 sleep 3
-echo ="Masukkan Nama Bank Anda";
+echo ="Masukkan Nama Anda";
 read p;
 sleep 1
 echo ="Masukkan No Rekening Anda"
@@ -61,7 +61,7 @@ echo "Pesan:Gunakanlah Dengan Sebaik Mungkin Jangan Beritahu Ini Kepada Orang La
 sleep 1
 sleep 2
 echo "ThankSToo"
-echo "ALL MEMBER MR HAMBALI CYBER TEAM"
+echo "ALL MEMBER MR-HAMBALI CYBER TEAM"
 sleep 1
 sleep 2
 echo " Thank You And SeeYou Friend :*"
